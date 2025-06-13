@@ -1,0 +1,9 @@
+opencv-python==4.9.0
+deepface==0.0.91
+pyaudio==0.2.14
+wavefile  # built-in, but can keep for completeness
+gTTS==2.2.3
+pygame==2.5.2
+openai==0.28.0
+assemblyai==0.26.0
+mediapipe==0.10.9
